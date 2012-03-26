@@ -1,0 +1,7 @@
+# Hidden files
+.*
+# sbt
+target/
+# Sphinx
+_build/
+__pycache__/
